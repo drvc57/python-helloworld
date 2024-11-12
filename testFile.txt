@@ -1,4 +1,0 @@
-# This is a tes file
-====================
-
-Testing git branches and git push to origin
